@@ -83,8 +83,8 @@ body{
 
 }  
 .logo img{
-    max-height:259px;
-    max-width: 259px;
+    max-height:300px;
+    max-width: 100%;
     
    
      image-orientation: flip;
