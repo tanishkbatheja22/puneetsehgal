@@ -83,8 +83,8 @@ body{
 
 }  
 .logo img{
-    max-height:200px;
-    max-width: 200px;
+    max-height:259px;
+    max-width: 259px;
     
    
      image-orientation: flip;
@@ -163,7 +163,7 @@ margin-top: 40px;
 }
 .box:before,
 .box:after{
-    background: linear-gradient(235deg,#ffff00,#060c21,#0000ff,#060c21,#ffff00);
+    background: linear-gradient(235deg,#ffff00,#060c21,#ff0000,#060c21,#ffff00);
 }
 .content{
     padding:20px;
@@ -251,7 +251,7 @@ h3:hover{
 
         .btn {
             padding: 12px 13px;
-            background-color: #245580;
+            background-color: #000;
             color: #000;
         }
 
