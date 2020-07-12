@@ -82,6 +82,14 @@ body{
 	color: #23527c;
 
 }   
+.logo img{
+    max-height:170px;
+    max-width: 170px;
+    
+   
+     image-orientation: flip;
+ 
+}
     .intro {
             text-align: center;
             color: #f5e79e;
